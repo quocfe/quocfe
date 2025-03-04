@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working with Node.js, NestJS, and ReactJS<br>📚 Exploring Golang for backend development  <br>🌱 Learning about Scalability, Database Optimization & System Design<br>📫 How to reach me: phuquocfe@gmail.com</p>
+<p align="left">🔭 I’m currently working with Node.js, NestJS, and ReactJS<br>📚 Exploring C# for backend development  <br>🌱 Learning about Scalability, Database Optimization & System Design<br>📫 How to reach me: phuquocfe@gmail.com</p>
 
 ###
 
