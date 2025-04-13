@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working with Node.js, NestJS, and ReactJS<br>📚 Exploring C# for backend development  <br>🌱 Learning about Scalability, Database Optimization & System Design<br>📫 How to reach me: phuquocfe@gmail.com</p>
+<p align="left">🔭 I’m currently working with Node.js, NestJS, and ReactJS<br>📚 Exploring python for backend development  <br>🌱 Learning about Scalability, Database Optimization & System Design<br>📫 How to reach me: phuquocfe@gmail.com</p>
 
 ###
 
@@ -43,8 +43,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/quocfe/quocfe/output/snake.svg" alt="Snake animation" />
 
 ###
 
