@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Back-end Developer | Node.js | NestJS | MySQL | MongoDB</p>
+<p align="left">💻 Back-end Developer | Node.js | NestJS | Flask </p>
 
 ###
 
