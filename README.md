@@ -1,46 +1,52 @@
-<h1 align="left">Hey 👋 I'm Nguyen Phu Quoc</h1>
+<h1 align="center">Hey 👋 I'm Nguyen Phu Quoc</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;DevOps+%26+CI%2FCD+Expert;Fullstack+Capability+with+ReactJS" alt="Typing SVG" />
+</p>
 
-<p align="left">💻 Back-end Developer | Node.js | NestJS | Flask </p>
+### 🛠️ About Me
 
-###
+- 🐍 **Backend Core:** Specializing in scalable systems with **Python (Django, FastAPI, Flask)**.
+- ⚙️ **DevOps & Automation:** Proficient in building robust pipelines with **GitLab CI** and **GitHub Actions**.
+- 🐳 **Infrastructure:** Containerizing applications with **Docker** and managing **Home Server** environments.
+- ⚛️ **Frontend:** Building modern web interfaces with **ReactJS** & **TypeScript**.
+- 🛠️ **Current Focus:** System Design, Microservices architecture, and Secure Networking.
+- 📫 Reach me: [phuquocfe@gmail.com](mailto:phuquocfe@gmail.com)
 
-<h2 align="left">About me</h2>
+### 💻 Tech Stack
 
-###
-
-<p align="left">🔭 I’m currently working with Node.js, NestJS, and ReactJS<br>📚 Exploring python for backend development  <br>🌱 Learning about Scalability, Database Optimization & System Design<br>📫 How to reach me: phuquocfe@gmail.com</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
+#### 🎯 Core Backend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="sqlalchemy" />
 </div>
 
-###
+#### ☁️ DevOps & CI/CD
+<div align="left">
+  <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange" alt="gitlab ci" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="github actions" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare" />
+</div>
 
-###
+#### 🌐 Frontend (Secondary)
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+</div>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quocfe&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocfe&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kyMjUybXZsZzJxbDJ3NXh4cmIxY3Y0OG4yZGppb2l6cWdvcDlxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9mJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcK9eU/giphy.gif" />
 </div>
-
-###
