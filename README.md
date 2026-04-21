@@ -1,16 +1,16 @@
 <h1 align="center">Hey 👋 I'm Nguyen Phu Quoc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;DevOps+%26+CI%2FCD+Expert;Fullstack+Capability+with+ReactJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;DevOps+%26+CI%2FCD;Fullstack+Capability+with+ReactJS" alt="Typing SVG" />
 </p>
 
 ### 🛠️ About Me
 
 - 🐍 **Backend Core:** Specializing in scalable systems with **Python (Django, FastAPI, Flask)**.
-- ⚙️ **DevOps & Automation:** Proficient in building robust pipelines with **GitLab CI** and **GitHub Actions**.
+- ⚙️ **DevOps & CI/CD:** Proficient in building robust pipelines with **GitLab CI** and **GitHub Actions**.
 - 🐳 **Infrastructure:** Containerizing applications with **Docker** and managing **Home Server** environments.
 - ⚛️ **Frontend:** Building modern web interfaces with **ReactJS** & **TypeScript**.
-- 🛠️ **Current Focus:** System Design, Microservices architecture, and Secure Networking.
+- 🛠️ **Current Focus:** System Design, Microservices architecture, and Secure Networking (Cloudflare, Tailscale).
 - 📫 Reach me: [phuquocfe@gmail.com](mailto:phuquocfe@gmail.com)
 
 ### 💻 Tech Stack
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare" />
 </div>
 
-#### 🌐 Frontend (Secondary)
+#### 🌐 Frontend (Support)
 <div align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
