@@ -40,13 +40,3 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
 </div>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quocfe&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocfe&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9iam9mJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcK9eU/giphy.gif" />
-</div>
