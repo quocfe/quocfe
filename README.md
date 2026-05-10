@@ -6,7 +6,7 @@
 
 ### 🛠️ About Me
 
-- 🐍 **Backend Core:** Specializing in scalable systems with **Python (Django, FastAPI, Flask)**.
+- 🐍 **Backend Core:** Specializing in scalable systems with **Python (Flask, FastAPI)**.
 - ⚙️ **DevOps & CI/CD:** Proficient in building robust pipelines with **GitLab CI** and **GitHub Actions**.
 - 🐳 **Infrastructure:** Containerizing applications with **Docker** and managing **Home Server** environments.
 - ⚛️ **Frontend:** Building modern web interfaces with **ReactJS** & **TypeScript**.
@@ -18,7 +18,7 @@
 #### 🎯 Core Backend
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="sqlalchemy" />
